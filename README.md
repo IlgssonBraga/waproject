@@ -10,6 +10,10 @@ Senha: senha@123
 ### Iniciando 
 
 ```bash
+git clone https://github.com/IlgssonBraga/waproject.git
+
+cd waproject/waproject-base-api
+
 yarn install # ou npm install
 
 docker-compose up
@@ -25,6 +29,8 @@ Frontend
 ### Iniciando 
 
 ```bash
+cd waproject/waproject-base-web
+
 yarn install # ou npm install
 
 yarn start
