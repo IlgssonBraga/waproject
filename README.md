@@ -21,8 +21,6 @@ docker-compose up
 Frontend
 ===============
 
-### Usuário
-
 
 ### Iniciando 
 
